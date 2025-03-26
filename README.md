@@ -25,7 +25,7 @@ An interactive executive dashboard was built to provide quick insights. Key metr
 •	Target vs. actual performance.
 ## Insights & Recommendations
 - Key Findings:
-•	Jaipur leads in revenue (₹37M) with 77K trips, exceeding its 68K target. However, its repeat passenger rate is only 17%, indicating heavy dependence on new passengers for revenue growth.
+  -	Jaipur leads in revenue (₹37M) with 77K trips, exceeding its 68K target. However, its repeat passenger rate is only 17%, indicating heavy dependence on new passengers for revenue growth.
 •	Surat ranks in the top 3 in trips (54K) and has the highest repeat rate (43%). Its average fare per km is ₹11, the lowest among all cities, which correlates with lower revenue (₹6M). Additionally, its average passenger rating is 6.42, suggesting a need for service improvements.
 •	Mysore contributes 4% of total revenue, with an average fare per km of ₹15, which is higher than the city average of ₹13. Despite low repeat passenger rates (11%), Mysore exceeded its trip target by 9%, supported by strong passenger satisfaction (8.0+ ratings).
 •	Lucknow ranks second in trips (15%) and repeat rate. However, its revenue per trip is lower than the city average, and its poor passenger rating (6.49) may be impacting retention and overall revenue growth.
