@@ -34,7 +34,7 @@ An interactive executive dashboard was built to provide quick insights. Key metr
   -	Jaipur: Since it heavily depends on new passengers, implementing a loyalty programs such as subscription based programs or points based systems can help improve retention.
   -	Mysore: Lowering fare rates slightly or introducing promotional offers could help attract more repeat passengers.
 
-## Dashboard link :
+## <a href = "https://github.com/raghap1/Goodcabs-Performance-Analysis/blob/main/goodcabsproject.pbix">Dashboard Link</a>
 
 ## Data modelling:
 
